@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrsatyam
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Spring boot
+- 🌱 I’m currently learning new techs regularly.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...mrsatyamjoshi@gmail.com
 
 <!---
 mrsatyam/mrsatyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
