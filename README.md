@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrsatyam
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning new techs regularly.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on <Any Project>
 - 📫 How to reach me ...mrsatyamjoshi@gmail.com
 
 <!---
